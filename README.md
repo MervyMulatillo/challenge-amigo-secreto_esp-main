@@ -70,10 +70,9 @@ Los usuarios pueden agregar nombres de amigos a una lista y luego realizar un so
 
 ---
 
-## 📹 Demo en video (opcional)
 ## 🎥 Demo en Video
 
-[![Ver demo en YouTube](https://img.youtube.com/vi/CODIGO_DEL_VIDEO/maxresdefault.jpg)](https://youtu.be/rTneZuGqrd0))
+[![Ver demo en YouTube](https://img.youtube.com/vi/rTneZuGqrd0/maxresdefault.jpg)](https://youtu.be/rTneZuGqrd0)
 
 ## 👩‍💻 Autor(a)
 
