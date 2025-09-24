@@ -8,17 +8,17 @@ Los usuarios pueden agregar nombres de amigos a una lista y luego realizar un so
 ## 📸 Capturas de Pantalla
 
 ### Pantalla principal
-![Pantalla principal](assets/captura1.png)
+<img width="883" height="397" alt="WEB_AMIGOSECRETO" src="https://github.com/user-attachments/assets/22db8351-4af9-4e59-90d5-f3c56700bf8a" />
+
 
 ### Lista de amigos añadidos
-![Lista de amigos](assets/captura2.png)
+<img width="884" height="577" alt="image" src="https://github.com/user-attachments/assets/ccfa7c72-be61-4f01-aea0-1ff1ef8cd3cc" />
+
 
 ### Resultado del sorteo
-![Resultado del sorteo](assets/captura3.png)
+<img width="854" height="207" alt="image" src="https://github.com/user-attachments/assets/0b69d9be-800a-478d-8178-0dd330526f27" />
 
-*(Nota: reemplaza `captura1.png`, `captura2.png`, etc. por tus propias capturas dentro de la carpeta `assets/`.)*
 
----
 
 ## ✨ Funcionalidades
 
@@ -61,9 +61,9 @@ Los usuarios pueden agregar nombres de amigos a una lista y luego realizar un so
 ## 💡 Retos adicionales implementados / ideas para mejorar
 
 - ✅ Evitar que se agreguen nombres duplicados.  
-- ✅ Posibilidad de añadir nombres presionando **Enter**.  
+- ✅ Posibilidad de añadir nombres presionando **Enter**.
+- ✅ Botón de **borrar lista** para empezar de nuevo.  
 - 🔜 Botón para **eliminar un nombre** de la lista.  
-- 🔜 Botón de **reiniciar lista** para empezar de nuevo.  
 - 🔜 Guardar la lista en **LocalStorage**, así no se pierde al recargar la página.  
 - 🔜 Agregar animaciones o efectos al mostrar el ganador.  
 - 🔜 Implementar la opción de descargar el resultado en un archivo `.txt` o `.pdf`.
@@ -71,16 +71,10 @@ Los usuarios pueden agregar nombres de amigos a una lista y luego realizar un so
 ---
 
 ## 📹 Demo en video (opcional)
+## 🎥 Demo en Video
 
-Puedes grabar un corto video (ej. usando [Loom](https://www.loom.com/) o la grabadora de Windows/Mac) mostrando:  
-1. Cómo agregas los nombres.  
-2. Cómo se listan.  
-3. Cómo se realiza el sorteo.  
-
-Luego lo subes a tu repositorio o lo enlazas desde YouTube.
-
----
+[![Ver demo en YouTube](https://img.youtube.com/vi/CODIGO_DEL_VIDEO/maxresdefault.jpg)](https://youtu.be/rTneZuGqrd0))
 
 ## 👩‍💻 Autor(a)
 
-Proyecto desarrollado por **[Tu nombre aquí]**, como parte del desafío de programación *Amigo Secreto*.
+Proyecto desarrollado por **Mervy Mulatillo Piñin**, como parte del desafío de programación *Amigo Secreto*.
